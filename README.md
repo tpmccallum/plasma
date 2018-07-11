@@ -28,4 +28,4 @@ Below is an list of Ethereum related second-layer side-chain designs which are c
 ## Wolk
 [Wolk](https://github.com/wolkdb/deepblockchains/tree/master/Plasmacash)
 
-Please note: The list is in alphabetical order (based on the GitHub repository which houses the code)
+Please note: The list is in alphabetical order (based on the GitHub account which houses the code)
