@@ -1,5 +1,5 @@
 # Plasma
-Below is an list of Ethereum related second-layer side-chain designs which are currently undergoing development on GitHub.
+Below is an list of Ethereum related second-layer side-chain designs which are currently undergoing development on GitHub. For a comprehensive one-stop Plasma shop, which includes current research as well as learning and development resources, please visit [Learn Plasma](http://www.learnplasma.org/).
 
 ## Bankex
 [Bankex](https://github.com/BANKEX/PlasmaParentContract)
