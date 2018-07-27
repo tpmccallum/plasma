@@ -10,6 +10,9 @@ Below is an list of Ethereum related second-layer side-chain designs which are c
 ## Taiwan Team, Javascript implementation of Plasma MVP
 [Taiwan Team, Javascript implementation of Plasma MVP](https://github.com/ethereum-plasma/plasma)
 
+## FastX Protocol, forked from Omisego's Plasma MVP
+[FastX Protocol](https://github.com/FastXProtocol/plasma-mvp)
+
 ## Blockchain at Berkeley
 [Blockchain at Berkeley, Plasma Debit](https://github.com/FourthState)
 
