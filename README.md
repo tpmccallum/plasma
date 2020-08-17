@@ -19,6 +19,9 @@ Below is an list of Ethereum related second-layer side-chain designs which are c
 ## Blockchain at Berkeley
 [Blockchain at Berkeley, Plasma Debit](https://github.com/FourthState)
 
+## Kelvin Fichter
+[More Minimal Plasma](https://github.com/kfichter/more-minimal-plasma)
+
 ## Loom Network
 [Loom Network](https://github.com/loomnetwork/plasma-erc721)
 
@@ -31,7 +34,5 @@ Below is an list of Ethereum related second-layer side-chain designs which are c
 ## Voltaire Labs
 [Voltaire Labs](https://github.com/voltairelabs/plasma)
 
-## Wolk
-[Wolk](https://github.com/wolkdb/deepblockchains/tree/master/Plasmacash)
 
 Please note: The list is in alphabetical order (based on the GitHub account which houses the code)
