@@ -5,31 +5,39 @@ For a comprehensive one-stop Plasma shop, which includes current research as wel
 Below is an list of Ethereum related second-layer side-chain designs which are currently undergoing development on GitHub.
 
 ## Bankex
-[Bankex](https://github.com/BANKEX/PlasmaParentContract)
+[Plasma](https://github.com/BANKEX/PlasmaParentContract)
 
 ## Cosmos, Peg Zone Implementation
-[Cosmos, Peg Zone Implementation](https://github.com/cosmos/peggy)
+[Peg Zone Implementation](https://github.com/cosmos/peggy)
 
 ## Taiwan Team, Javascript implementation of Plasma MVP
-[Taiwan Team, Javascript implementation of Plasma MVP](https://github.com/ethereum-plasma/plasma)
+[Javascript implementation of Plasma MVP](https://github.com/ethereum-plasma/plasma)
 
 ## FastX Protocol, forked from Omisego's Plasma MVP
-[FastX Protocol](https://github.com/FastXProtocol/plasma-mvp)
+[MVP](https://github.com/FastXProtocol/plasma-mvp)
 
 ## Blockchain at Berkeley
-[Blockchain at Berkeley, Plasma Debit](https://github.com/FourthState)
+[Plasma Debit](https://github.com/FourthState)
 
 ## Kelvin Fichter
 [More Minimal Plasma](https://github.com/kfichter/more-minimal-plasma)
 
+## Kyokan
+[MVP](https://github.com/kyokan/plasma)
+
 ## Loom Network
 [Loom Network](https://github.com/loomnetwork/plasma-erc721)
 
-## OmiseGO, Plasma Cash
-[OmiseGO Plasma Cash - GitHub Repository](https://github.com/omisego/plasma-cash)
+## Lucidity
+[Plasma Cash](https://github.com/luciditytech/lucidity-plasma-cash)
+[Plasma Bank](https://github.com/luciditytech/plasma-bank)
+[Plasma MVP](https://github.com/luciditytech/lucidity-plasma)
 
-## OmiseGO, Plasma MVP
-[OmiseGO Plasma MVP - GitHub Repository](https://github.com/omisego/plasma-mvp)
+## OmiseGO
+[Elixir Client Library](https://github.com/omgnetwork/ex_plasma)
+[Plasma Contracts](https://github.com/omgnetwork/plasma-contracts)
+[Plasma Cash](https://github.com/omgnetwork/plasma-cash)
+[Plasma MVP](https://github.com/omgnetwork/plasma-mvp)
 
 ## Voltaire Labs
 [Voltaire Labs](https://github.com/voltairelabs/plasma)
