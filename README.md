@@ -16,8 +16,8 @@ Below is an list of Ethereum related second-layer side-chain designs which are c
 ## FastX Protocol, forked from Omisego's Plasma MVP
 [MVP](https://github.com/FastXProtocol/plasma-mvp)
 
-## Blockchain at Berkeley
-[Plasma Debit](https://github.com/FourthState)
+## FourthState Labs
+[Plasma MVP](https://github.com/FourthState)
 
 ## Kelvin Fichter
 [More Minimal Plasma](https://github.com/kfichter/more-minimal-plasma)
